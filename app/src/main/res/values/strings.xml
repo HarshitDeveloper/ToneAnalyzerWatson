@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToneAnalyzerWatson</string>
+    <string name="analyze_tone">Analyze Tone</string>
+</resources>
